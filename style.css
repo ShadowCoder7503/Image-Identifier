@@ -1,0 +1,16 @@
+.Pushter{
+    font-family: 'Pushster', cursive;
+}
+.heading{
+    width:80%;
+    font-size:25px;
+}
+body{
+    font-family: 'Pushster', cursive;
+    background:repeating-radial-gradient( Red,orange,yellow,green,blue,indigo,violet);
+}
+#webcam{
+    border:2px dashed blue ;
+    width:350px;
+    height:300px;
+}
